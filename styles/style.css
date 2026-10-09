@@ -14,4 +14,7 @@ nav ul li a {
   text-decoration: none;
   font-weight: 700;
   color: #4D2A00;
+}
+nav ul li a:hover {
+  border-bottom: 3px solid #D4621A;
 }/*# sourceMappingURL=style.css.map */
