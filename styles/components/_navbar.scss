@@ -1,3 +1,5 @@
+@import "../abstract/variables";
+
 nav {
     text-align: center;
 
@@ -13,6 +15,7 @@ nav {
                 text-transform: uppercase;
                 text-decoration: none;
                 font-weight: 700;
+                color: $cor-primaria;
 
             }
 
