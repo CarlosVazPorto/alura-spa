@@ -1,5 +1,7 @@
 html, body {
   font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
@@ -27,4 +29,18 @@ nav ul li a:hover {
   justify-content: center;
   align-items: center;
   opacity: 0.85;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #FEF3E2;
+  opacity: 0.6;
+  border-radius: 25px;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #4D2A00;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  color: #D4621A;
 }/*# sourceMappingURL=style.css.map */

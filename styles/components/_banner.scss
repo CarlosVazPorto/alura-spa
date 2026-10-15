@@ -1,3 +1,5 @@
+@import "../abstract/variables";
+
 .banner {
     background: url(../imagens/banner.jpeg) 27% center no-repeat;
     min-height: 500px;
@@ -6,4 +8,22 @@
     justify-content: center;
     align-items: center;
     opacity: 0.85;
+
+    .inner-banner {
+        padding: 3rem;
+        background-color: $cor-terciaria;
+        opacity: 0.6;
+        border-radius: 25px;
+
+        h1 {
+            font-size: 3rem;
+            color: $cor-primaria;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            color: $cor-secundaria;
+        }
+
+    }
 }
