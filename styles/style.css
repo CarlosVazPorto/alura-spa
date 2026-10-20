@@ -154,4 +154,7 @@ footer {
   padding: 1.25rem;
   margin-top: 1rem;
   color: #4D2A00;
+}
+footer i {
+  color: red;
 }/*# sourceMappingURL=style.css.map */
