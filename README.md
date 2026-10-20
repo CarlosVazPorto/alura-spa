@@ -1,6 +1,6 @@
 # alura-spa
 
-![Banner](imagens/readme-img/alura-spa-readme.png)
+![Banner](/imagens/alura-spa-readme.png)
 
 > Do curso da Alura:
 SASS: CSS sintaticamente espetacular
