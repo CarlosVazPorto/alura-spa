@@ -90,4 +90,17 @@ nav ul li a:hover {
 }
 #services .cards .card .img-container img {
   max-width: 100%;
+}
+
+#coupon {
+  background-color: #FEF3E2;
+  padding: 3rem;
+  text-align: center;
+}
+#coupon .coupon-text {
+  color: #4D2A00;
+}
+#coupon .coupon-text h2 {
+  font-size: 1.7142857143rem;
+  padding: 2rem;
 }/*# sourceMappingURL=style.css.map */
