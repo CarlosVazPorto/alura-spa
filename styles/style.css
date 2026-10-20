@@ -158,4 +158,24 @@ footer {
 }
 footer i {
   color: red;
+}
+
+#presents {
+  padding: 1rem;
+  margin: 10px;
+  text-align: center;
+}
+#presents h3 {
+  font-size: 1.5rem;
+  color: #4D2A00;
+  margin-bottom: 0.5rem;
+}
+#presents h4 {
+  font-size: 1.2rem;
+  color: #D4621A;
+  margin-bottom: 0.6rem;
+}
+#presents p {
+  font-size: 1.0909090909rem;
+  color: #4D2A00;
 }/*# sourceMappingURL=style.css.map */
