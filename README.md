@@ -3,7 +3,7 @@
 ![Banner](/imagens/alura-spa-readme.png)
 
 > Do curso da Alura:
-SASS: CSS sintaticamente espetacular
+"SASS: CSS sintaticamente espetacular"
 
 Página do Alura SPA, criado com HTML e SASS / SCSS.
 
