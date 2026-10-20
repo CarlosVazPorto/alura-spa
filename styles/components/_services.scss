@@ -28,6 +28,21 @@
             width: 360px;
             text-align: center;
 
+            h5 {
+                font-size: $tamanho-do-texto / 1.5;
+                color: $cor-primaria;
+                font-weight: 300;
+                margin-top: 1rem;
+                margin-bottom: 1rem;
+            }
+
+            p {
+                font-size: $tamanho-do-texto / 3;
+                color: $cor-primaria;
+                font-weight: 300;
+                line-height: 1.25rem;
+            }
+
             .img-container {
                 padding-bottom: 2px;
                 border-bottom: 6px solid $cor-secundaria;
