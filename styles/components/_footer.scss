@@ -2,4 +2,9 @@
 
 footer {
     text-align: center;
+    font-size: $tamanho-do-texto / 2;
+    border-top: 2px solid $cor-secundaria;
+    padding: 1.25rem;
+    margin-top: 1rem;
+    color: $cor-primaria;
 }

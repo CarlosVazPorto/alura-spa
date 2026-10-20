@@ -149,4 +149,9 @@ nav ul li a:hover {
 
 footer {
   text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #D4621A;
+  padding: 1.25rem;
+  margin-top: 1rem;
+  color: #4D2A00;
 }/*# sourceMappingURL=style.css.map */
