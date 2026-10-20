@@ -6,13 +6,14 @@
 "SASS: CSS sintaticamente espetacular"
 
 Página do Alura SPA, criado com HTML e SASS / SCSS.
+Não há interatividade via JavaScript.
 
+>Tecnologias:
 As tecnologias utilizadas pra isso foram:
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white") : construção do conteúdo da página
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white") : estilização da página
 - ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) : estilização da página
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E") : interatividade da página
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) : controle de versão
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) : repositório do código
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) : hospedagem do site
