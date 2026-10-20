@@ -43,4 +43,23 @@ nav ul li a:hover {
 .banner .inner-banner h2 {
   font-size: 1.5rem;
   color: #D4621A;
+}
+
+#services {
+  margin: 80px;
+}
+#services h3 {
+  font-size: 1.2rem;
+  color: #D4621A;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin: 1rem;
+}
+#services h4 {
+  text-align: center;
+  font-size: 1.7142857143rem;
+  margin-bottom: 2.5rem;
+  font-weight: 300;
+  color: #4D2A00;
 }/*# sourceMappingURL=style.css.map */
