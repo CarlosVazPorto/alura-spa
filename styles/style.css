@@ -145,4 +145,8 @@ nav ul li a:hover {
 #coupon button:hover {
   background-color: #D4621A;
   color: #FFFFFF;
+}
+
+footer {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
